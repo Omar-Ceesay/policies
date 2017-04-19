@@ -1,7 +1,7 @@
 # Summary
 
 * Information Security
-  * [ISS Policies](pages/infoSec.md)
+  * [ISS Policies](README.md)
 * Misc.
   * [Laptops](pages/equipment.md)
   * [Venders](pages/gifts.md)
